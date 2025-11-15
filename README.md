@@ -4,7 +4,7 @@ I'm an Artificial Intelligence and Machine Learning professional with hands-on e
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Research+and+Development;Loves+Working+on+GenAI+and+LLMs+Usecases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Loves+working+on+GenAI+and+LLMs+usecases;Interested+in+Research+and+Development)](https://git.io/typing-svg)
 
 
  * You can find me on [LinkedIn](https://www.linkedin.com/in/aditya-kanamadi-4b2989291/) and do follow me :)
