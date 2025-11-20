@@ -14,7 +14,16 @@ I'm an Artificial Intelligence and Machine Learning professional with hands-on e
 #### 🌱 What I'm Passionate About
 
 * *AI That Empowers:* Creating tools that make developers more productive.
-* *Community-Driven Innovation:* Collaborating with global developers to tackle real-world challenges with AI. 
+* *Community-Driven Innovation:* Collaborating with global developers to tackle real-world challenges with AI.
+
+
+
+### My expertise spans across:
+* Machine Learning & DL : predictive modeling, NLP , Transformers, LLMs
+* Generative AI & LLMs : RAG systems, and AI Agents, Fine-Tuning LLMs.
+* Data Science & Analytics : data cleaning, visualization, clustering, and insights extraction
+* Full-Stack Development : Integrating AI models into modern web apps using Python, FastAPI, and Next.js
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakanamadi281&show_icons=true)
