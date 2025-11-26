@@ -25,5 +25,3 @@ I'm an Artificial Intelligence and Machine Learning professional with hands-on e
 * Full-Stack Development : Integrating AI models into modern web apps using Python, FastAPI, and Next.js
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakanamadi281&show_icons=true)
