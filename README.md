@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Aditya Kanamadi</a>👋</h1>
 
- ### My expertise spans across:
+ ### Where I work 
 * Machine Learning , NLP, RAG systems , Fine-Tuning LLMs , Evaluating LLMs & RAG systems.
 * Data Science : Analysis, Insighgts Extraction, Clustering.
 
