@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Aditya Kanamadi</a>👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=6000&pause=1200&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Currently+working+on+PerceptyxAI+and+AI+Recruitment+System;Interested+in+Research+and+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=6000&pause=1200&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Interested+in+Research+and+Development)](https://git.io/typing-svg)
 
  ### Where I work 
 * Machine Learning , NLP, RAG systems , Fine-Tuning LLMs , Evaluating.
