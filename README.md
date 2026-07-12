@@ -12,7 +12,7 @@
   <a href="https://x.com/AdityaKanamadi">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:adityakanamadis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
